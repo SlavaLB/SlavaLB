@@ -20,4 +20,7 @@ Here are some ideas to get you started:
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SlavaLB&show_icons=true&theme=merko&hide=contribs,prs)
 
+<img src="https://media.giphy.com/media/Yl5aO3vuVgQKY/giphy.gif" width="500">
+
+
 
