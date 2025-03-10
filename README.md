@@ -18,3 +18,6 @@ Here are some ideas to get you started:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SlavaLB&layout=compact&theme=dark)
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SlavaLB&show_icons=true&theme=merko&hide=contribs,prs)
+
+
